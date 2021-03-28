@@ -1,0 +1,11 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/jack/ros2_ws/install/turtlesim/lib/python3.6/site-packages",
+        "/home/jack/ros2_ws/install/python_parameters/lib/python3.6/site-packages",
+        "/home/jack/ros2_ws/install/py_pubsub/lib/python3.6/site-packages",
+        "/home/jack/ros2_ws/install/my_package/lib/python3.6/site-packages",
+        "/opt/ros/dashing/lib/python3.6/site-packages",
+        "/home/jack/work_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}
